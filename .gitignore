@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+meu_ambiente/
+__pycache__/
+*.pyc
+
+# Large binary files
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.so
+*.webp
+*.xls
+*.xlsx
+*.docx
+*.doc
+
+# IDE files
+.vscode/
+.idea/
