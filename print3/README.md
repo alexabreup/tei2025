@@ -150,6 +150,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 Para mais informações, entre em contato com o grupo de desenvolvimento:
 - Email: [alexabreuper@gmail.com]
-]
-
+- Email: [luisgustavo.l.p@hotmail.com]
+- Email: [alemaoalff71@gmail.com]
 ---
